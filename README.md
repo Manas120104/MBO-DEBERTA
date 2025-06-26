@@ -1,7 +1,7 @@
 # MBO-DeBERTa: AI-Powered Fake Review Detection 🔍
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlSuV3r0OuPXdeg/giphy.gif" alt="Flying Monarch Butterfly" width="120"/>
+  <img src="https://tenor.com/view/borboletas-butterflies-beautiful-fly-gif-15280821" alt="Monarch Butterfly Flapping Wings" width="120"/>
 </div>
 
 > **Optimized Transformer Architecture using Monarch Butterfly Optimization for Automated Review Classification**
