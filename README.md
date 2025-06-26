@@ -1,7 +1,7 @@
 # MBO-DeBERTa: AI-Powered Fake Review Detection 🔍
 
 <div align="center">
-  <img src="https://media.tenor.com/z0pgDo6jFxYAAAAj/borboletas-butterflies.gif" alt="Monarch Butterfly Flapping Wings" width="150"/>
+  <img src="https://media.tenor.com/z0pgDo6jFxYAAAAj/borboletas-butterflies.gif" alt="Monarch Butterfly Flapping Wings" width="200"/>
 </div>
 
 > **Optimized Transformer Architecture using Monarch Butterfly Optimization for Automated Review Classification**
@@ -47,7 +47,7 @@ MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of
 
 ### Step 3: Monarch Butterfly Optimization 🦋
 - **Bio-inspired Algorithm**: Mimics migration patterns of monarch butterflies
-- **Automated Tuning**: Optimizes learning rate, batch size, dropout rates, and other hyperparameters
+- **Automated Tuning**: Optimizes learning rate, weight decay, dropout ratio, and other hyperparameters
 - **Population-based Search**: Explores hyperparameter space efficiently
 - **Convergence**: Finds optimal configuration without manual intervention
 
@@ -58,7 +58,7 @@ MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of
 
 ## ✨ Key Features
 
-🎯 **High Accuracy**: Achieves **98% accuracy** on benchmark datasets  
+🎯 **High Performance**: Achieves **98% accuracy, 98% precision, 97% recall and 97% f1-score** on benchmark datasets  
 🦋 **Bio-inspired Optimization**: Uses Monarch Butterfly Algorithm for automated hyperparameter tuning  
 🧠 **Advanced NLP**: Leverages DeBERTa's disentangled attention mechanism  
 🏆 **Superior Performance**: Outperforms traditional baseline models  
@@ -84,7 +84,7 @@ MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of
 
 The MBO-DeBERTa system demonstrates exceptional performance across multiple metrics:
 
-- ✅ **98% Accuracy** on benchmark fake review datasets
+- ✅ **98% accuracy, 98% precision, 97% recall and 97% f1-score** on benchmark fake review datasets
 - ✅ **Outperforms baseline models** including traditional ML and basic transformers
 - ✅ **Robust performance** on real-world e-commerce review data
 - ✅ **Consistent results** across different product categories and platforms
@@ -98,7 +98,7 @@ The MBO-DeBERTa system demonstrates exceptional performance across multiple metr
 
 ## 📚 Research Publication
 
-This work has been **published in Nature's Scientific Reports Journal**, validating its scientific contribution and methodology.
+This work has been **published in Nature's Scientific Reports Journal, a Q1-ranked, 5th most-cited journal in the world with a 2-year impact factor of 3.8 (2023)**, validating its scientific contribution and methodology.
 
 🔗 **[Read the Full Paper](https://www.nature.com/articles/s41598-025-89453-8)**
 
