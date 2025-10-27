@@ -1,7 +1,11 @@
-# MBO-DeBERTa: AI-Powered Fake Review Detection 🔍
+# MBO-DeBERTa: AI-Powered E-Commerce Fake Review Detection using pretrained DeBERTa Transformer Model Optimized with Monarch Butterfly Optimization (MBO) Algorithm 🔍
 
 <div align="center">
   <img src="https://media.tenor.com/z0pgDo6jFxYAAAAj/borboletas-butterflies.gif" alt="Monarch Butterfly Flapping Wings" width="200"/>
+  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PGBi88ihewWgRTGTRhc0DZjJ6xzLouBA?usp=sharing)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Research Paper](https://img.shields.io/badge/Nature-Scientific%20Reports-blue.svg)](https://www.nature.com/articles/s41598-025-89453-8)
 </div>
 
 > **Optimized Transformer Architecture using Monarch Butterfly Optimization for Automated Review Classification**
@@ -13,11 +17,13 @@
 - [Key Features](#-key-features)
 - [Technology Stack](#️-technology-stack)
 - [Performance](#-performance)
+- [Quick Start](#-quick-start)
 - [Research Publication](#-research-publication)
+- [License](#-license)
 
 ## 🎯 Overview
 
-MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of fake reviews in e-commerce platforms. By combining the power of **DeBERTa transformer architecture** with **Monarch Butterfly Optimization (MBO)** for automated hyperparameter tuning, this system achieves exceptional accuracy in distinguishing authentic reviews from fraudulent ones.
+MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of fake reviews in e-commerce platforms. By combining the power of **DeBERTa transformer architecture** with **Monarch Butterfly Optimization (MBO)** for automated hyperparameter tuning, this model achieves exceptional accuracy in distinguishing authentic reviews from fraudulent ones.
 
 ## 🚨 Problem Statement
 
@@ -37,7 +43,7 @@ MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of
 
 ### Step 1: Data Processing 📝
 - **Input**: Raw review text from e-commerce platforms
-- **Preprocessing**: Text cleaning, tokenization, and feature extraction
+- **Preprocessing**: Data cleaning, tokenization, and feature extraction
 - **Encoding**: DeBERTa tokenizer converts text to model-readable format
 
 ### Step 2: Model Architecture 🧠
@@ -58,7 +64,7 @@ MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of
 
 ## ✨ Key Features
 
-🎯 **High Performance**: Achieves **98% accuracy, 98% precision, 97% recall and 97% f1-score** on benchmark datasets  
+🎯 **High Performance**: Achieves **98% accuracy, 98% precision, 99% recall and 98% f1-score** on benchmark datasets  
 🦋 **Bio-inspired Optimization**: Uses Monarch Butterfly Algorithm for automated hyperparameter tuning  
 🧠 **Advanced NLP**: Leverages DeBERTa's disentangled attention mechanism  
 🏆 **Superior Performance**: Outperforms traditional baseline models  
@@ -84,7 +90,7 @@ MBO-DeBERTa is an advanced AI-powered system that tackles the growing problem of
 
 The MBO-DeBERTa system demonstrates exceptional performance across multiple metrics:
 
-- ✅ **98% accuracy, 98% precision, 97% recall and 97% f1-score** on benchmark fake review datasets
+- ✅ **98% accuracy, 98% precision, 99% recall and 98% f1-score** on benchmark fake review datasets
 - ✅ **Outperforms baseline models** including traditional ML and basic transformers
 - ✅ **Robust performance** on real-world e-commerce review data
 - ✅ **Consistent results** across different product categories and platforms
@@ -96,9 +102,23 @@ The MBO-DeBERTa system demonstrates exceptional performance across multiple metr
 - **🎯 Production-ready** deployment capabilities
 - **📊 Validated methodology** through rigorous benchmark testing
 
+## 🚀 Quick Start
+
+### Try it Now!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PGBi88ihewWgRTGTRhc0DZjJ6xzLouBA?usp=sharing)
+
+Click the badge above to open the interactive notebook in Google Colab and start experimenting with the model immediately!
+
+### What's Included
+- **📓 Complete Implementation**: Full code with detailed explanations
+- **🎓 Step-by-step Tutorial**: Guided walkthrough of the entire pipeline
+- **📊 Dataset Integration**: Pre-configured data loading and preprocessing
+- **🧪 Experimentation**: Modify hyperparameters and test different configurations
+- **📈 Visualization**: Performance metrics and result analysis
+
 ## 📚 Research Publication
 
-This work has been **published in Nature's Scientific Reports Journal, a Q1-ranked, 5th most-cited journal in the world with a 2-year impact factor of 3.8 (2023)**, validating its scientific contribution and methodology.
+This work has been **published in Nature's Scientific Reports Journal, a Q1-ranked, 3rd most-cited journal in the world with a 2-year impact factor of 3.8 (2023)**, validating its scientific contribution and methodology.
 
 🔗 **[Read the Full Paper](https://www.nature.com/articles/s41598-025-89453-8)**
 
@@ -112,8 +132,54 @@ This project contributes to the fields of:
 - **🦋 Bio-inspired Computing**: Application of MBO in deep learning hyperparameter optimization
 - **🏭 Production AI**: Deployment-ready models for real-world applications
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+```
+MIT License
+
+Copyright (c) 2025 MBO-DeBERTa Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 ---
 
 **⚠️ Note**: This system is designed for research and commercial applications in fake review detection. Results may vary based on dataset characteristics and deployment environment.
 
 *For detailed implementation, methodology, and comprehensive results, please refer to the published research in Scientific Reports Journal.*
+
+## 📞 Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@article{geetha2025high,
+  title={High performance fake review detection using pretrained DeBERTa optimized with Monarch Butterfly paradigm},
+  author={Geetha, S and Elakiya, E and Kanmani, R Sujithra and Das, Manas Kamal},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={7445},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+```
