@@ -9,6 +9,10 @@
 </div>
 
 > **Optimized Transformer Architecture using Monarch Butterfly Optimization for Automated Review Classification**
+> This is a deep learning based online e-commerce fake review classifier model using an optimized DeBERTa transformer architecture. Nature inspired swarm-intelligence based Monarch Butterfly algorithm is leveraged for optimizing the DeBERTa hyperparameters (Hyperparameter Tuning).
+
+The model has been trained and evaluated on three real-world datasets - Amazon Reviews (amazon_reviews.csv - 21000 records), Hotel Reviews (ott-deceptive-opinion.csv - 1600 records), Product Reviews (fake reviews dataset.csv - 40,432 records). Click on the Google Colab badge to view the code notebook. The notebook shows the model's implementation on the Hotel Reviews dataset
+
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
