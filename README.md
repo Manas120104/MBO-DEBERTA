@@ -13,6 +13,9 @@
 
 The model has been trained and evaluated on three real-world datasets - Amazon Reviews (amazon_reviews.csv - 21000 records), Hotel Reviews (ott-deceptive-opinion.csv - 1600 records), Product Reviews (fake reviews dataset.csv - 40,432 records). Click on the Google Colab badge to view the code notebook. The notebook shows the model's implementation on the Hotel Reviews dataset
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
@@ -24,6 +27,15 @@ The model has been trained and evaluated on three real-world datasets - Amazon R
 - [Quick Start](#-quick-start)
 - [Research Publication](#-research-publication)
 - [License](#-license)
+
+</td>
+<td width="50%" valign="top" align="center">
+<img src="images/architecture-diagram.png" alt="Architecture diagram" width="100%"/>
+<p><em></em>MBO-DeBERTa Architecture</p>
+</td>
+</tr>
+</table>
+
 
 ## 🎯 Overview
 
