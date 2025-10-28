@@ -22,6 +22,7 @@ The model has been trained and evaluated on three real-world datasets - Amazon R
 - [Problem Statement](#-problem-statement)
 - [How It Works](#-how-it-works)
 - [Key Features](#-key-features)
+- [Prediction Results](#-prediction-results)
 - [Technology Stack](#️-technology-stack)
 - [Performance](#-performance)
 - [Quick Start](#-quick-start)
@@ -30,7 +31,7 @@ The model has been trained and evaluated on three real-world datasets - Amazon R
 
 </td>
 <td width="50%" valign="top" align="center">
-<img src="images/architecture-diagram.png" alt="Architecture diagram" width="100%"/>
+<img src="images/architecture-image.png" alt="Architecture diagram" width="100%"/>
 <p><em></em>MBO-DeBERTa Architecture</p>
 </td>
 </tr>
@@ -71,6 +72,7 @@ MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of 
 - **Bio-inspired Algorithm**: Mimics migration patterns of monarch butterflies
 - **Automated Tuning**: Optimizes learning rate, weight decay, dropout ratio, and other hyperparameters
 - **Population-based Search**: Explores hyperparameter space efficiently
+- **Exploration-Exploitation Trade-off**: Balances exploration and exploitaion of search space efficiently
 - **Convergence**: Finds optimal configuration without manual intervention
 
 ### Step 4: Classification & Validation ✅
@@ -87,6 +89,40 @@ MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of 
 🌐 **Real-World Tested**: Validated on actual e-commerce review datasets  
 🚀 **Deployment Ready**: Built for production-level implementation  
 ⚡ **Efficient Processing**: Optimized for both accuracy and computational efficiency
+
+## 📊 Prediction Results
+<p align="center">
+  <img src="images/performance-analysis.png" alt="Performance Analysis of the Transformer models for three review datasets." width="100%"/>
+</p>
+
+*Performance Analysis of the Transformer models for the three fake review datasets.*
+
+---
+
+<p align="center">
+  <img src="images/product-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for product review dataset (fake reviews dataset.csv)." width="100%"/>
+</p>
+
+*Overall comparison of the proposed model with various other hybrid combinations for product review dataset (fake reviews dataset.csv).*
+
+---
+
+<p align="center">
+  <img src="images/amazon-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for Amazon review dataset (amazon_reviews.csv)." width="100%"/>
+</p>
+
+*Overall comparison of the proposed model with various other hybrid combinations for Amazon review dataset (amazon_reviews.csv).*
+
+---
+
+<p align="center">
+  <img src="images/ott-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for hotel review dataset (ott-deceptive-opinion.csv)." width="100%"/>
+</p>
+
+*Overall comparison of the proposed model with various other hybrid combinations for hotel review dataset (ott-deceptive-opinion.csv).*
+
+---
+
 
 ## 🛠️ Technology Stack
 
