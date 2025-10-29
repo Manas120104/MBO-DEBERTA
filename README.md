@@ -31,7 +31,7 @@ The model has been trained and evaluated on three real-world datasets - Amazon R
 
 </td>
 <td width="50%" valign="top" align="center">
-<img src="images/architecture-image.png" alt="Architecture diagram" width="100%"/>
+<img src="./images/architecture-image.png" alt="Architecture diagram" width="100%"/>
 <p><em></em>MBO-DeBERTa Architecture</p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of 
 
 ## 📊 Prediction Results
 <p align="center">
-  <img src="images/performance-analysis.png" alt="Performance Analysis of the Transformer models for three review datasets." width="100%"/>
+  <img src="./images/performance-analysis.png" alt="Performance Analysis of the Transformer models for three review datasets." width="100%"/>
 </p>
 
 *Performance Analysis of the Transformer models for the three fake review datasets.*
@@ -100,7 +100,7 @@ MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of 
 ---
 
 <p align="center">
-  <img src="images/product-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for product review dataset (fake reviews dataset.csv)." width="100%"/>
+  <img src="./images/product-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for product review dataset (fake reviews dataset.csv)." width="100%"/>
 </p>
 
 *Overall comparison of the proposed model with various other hybrid combinations for product review dataset (fake reviews dataset.csv).*
@@ -108,7 +108,7 @@ MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of 
 ---
 
 <p align="center">
-  <img src="images/amazon-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for Amazon review dataset (amazon_reviews.csv)." width="100%"/>
+  <img src="./images/amazon-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for Amazon review dataset (amazon_reviews.csv)." width="100%"/>
 </p>
 
 *Overall comparison of the proposed model with various other hybrid combinations for Amazon review dataset (amazon_reviews.csv).*
@@ -116,7 +116,7 @@ MBO-DeBERTa is an advanced AI-powered model that tackles the growing problem of 
 ---
 
 <p align="center">
-  <img src="images/ott-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for hotel review dataset (ott-deceptive-opinion.csv)." width="100%"/>
+  <img src="./images/ott-comp.png" alt="Overall comparison of the proposed model with various other hybrid combinations for hotel review dataset (ott-deceptive-opinion.csv)." width="100%"/>
 </p>
 
 *Overall comparison of the proposed model with various other hybrid combinations for hotel review dataset (ott-deceptive-opinion.csv).*
